@@ -16,7 +16,7 @@
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
-		<java.version>11.0.7</java.version>
+		<java.version>11</java.version>
 		<sonar.projectKey>projectpapw</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>8c25327069bb13cdac16a45591a3aa5fe9d8dfff</sonar.login>
