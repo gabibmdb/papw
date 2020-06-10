@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>projectpapw</sonar.projectKey>
+		<sonar.projectKey>papw</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>6b45712ff43d594a55cf01c76e401d7ba3b3eac5</sonar.login>
 
